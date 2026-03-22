@@ -104,7 +104,7 @@
     Sym {
         label = "Sym";
         bindings = <
-                &kp LEFT_BRACE  &kp AMPERSAND  &kp ASTERISK         &kp LEFT_PARENTHESIS   &kp RIGHT_BRACE       &trans      &trans     &trans    &trans    &trans  
+                &kp LEFT_BRACE  &kp AMPERSAND  &kp ASTERISK         &kp LEFT_PARENTHESIS   &kp RIGHT_BRACE       &studio_unlock      &trans     &trans    &trans    &trans  
                 &kp COLON       &kp DOLLAR     &kp PERCENT          &kp CARET              &kp PLUS              &trans  &kp RSHIFT  &kp RCTRL  &kp RALT  &kp RGUI  
         &trans  &kp TILDE       &kp EXCL       &kp AT               &kp HASH               &kp PIPE              &trans      &trans     &trans    &trans    &trans  &trans
                                               &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp UNDERSCORE        &trans      &trans     &trans   
@@ -114,7 +114,7 @@
     Num {
         label = "Num";
         bindings = <
-                &kp LEFT_BRACKET  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp RIGHT_BRACKET       &studio_unlock      &trans     &trans    &trans    &trans
+                &kp LEFT_BRACKET  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp RIGHT_BRACKET       &trans      &trans     &trans    &trans    &trans
                 &kp SEMICOLON     &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp EQUAL               &trans  &kp RSHIFT  &kp RCTRL  &kp RALT  &kp RGUI
         &trans  &kp GRAVE         &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp BACKSLASH           &trans      &trans     &trans    &trans    &trans  &trans
                                                 &kp SQT       &kp NUMBER_0  &kp MINUS               &trans      &trans     &trans
